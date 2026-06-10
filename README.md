@@ -307,7 +307,8 @@ The project successfully demonstrates:
 
 ## Author
 
-**Mihir**
+**Sayali Babar**
+**https://www.linkedin.com/in/sayali-babar19/**
 
 Cybersecurity Researcher | AI & Machine Learning Enthusiast | Data Analytics Practitioner
 
