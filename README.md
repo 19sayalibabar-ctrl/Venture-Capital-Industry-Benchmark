@@ -310,7 +310,7 @@ The project successfully demonstrates:
 **Sayali Babar**
 **https://www.linkedin.com/in/sayali-babar19/**
 
-Cybersecurity Researcher | AI & Machine Learning Enthusiast | Data Analytics Practitioner
+Machine Leqarning Expert | AI & Neural Networks Practitioner | Data Analytics Practitioner
 
 ---
 
